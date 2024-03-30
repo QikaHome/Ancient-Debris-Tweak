@@ -1,0 +1,19 @@
+modLoader="lowcodefml"
+loaderVersion="[0,)"
+issueTrackerURL="https://modrinth.com/mod/ancient_debris_tweak"
+license="MIT"
+[[mods]]
+    modId="ancient_debris_tweak"
+    version="0.0.1b"
+    displayName="Ancient Debris Tweak"
+    description='''
+    Some tweaks for ancient debris.
+    '''
+    logoFile="pack.png"
+
+[[dependencies.ancient_debris_tweak]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"

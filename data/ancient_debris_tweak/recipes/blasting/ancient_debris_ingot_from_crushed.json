@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "ancient_debris_tweak:crashed_raw_ancient_debris"
+  },
+  "result": "minecraft:netherite_scrap",
+  "experience": 0.1,
+  "cookingtime": 100
+}

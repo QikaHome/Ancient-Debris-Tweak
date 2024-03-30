@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:storage_blocks/netherite_scrap",
+    "#forge:storage_blocks/raw_ancient_debris"
+  ]
+}

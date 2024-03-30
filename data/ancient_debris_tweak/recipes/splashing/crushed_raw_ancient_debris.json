@@ -1,0 +1,18 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "ancient_debris_tweak:crashed_raw_ancient_debris"
+    }
+  ],
+  "results": [
+    {
+      "item":"tconstruct:debris_nugget",
+      "count": 9
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "chance": 0.25
+    }
+  ]
+}

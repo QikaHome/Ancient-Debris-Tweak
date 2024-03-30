@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ancient_debris_tweak:block/nether_ancient_debris_ore"
+  }
+}

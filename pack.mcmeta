@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": {"type":"translatable","translate":"description.ancient_debris_tweak.pack","fallback":"The ancient_debris_tweak's Data&Resource pack"},
+        "pack_format": 9
+    }
+}

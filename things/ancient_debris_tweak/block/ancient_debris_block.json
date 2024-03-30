@@ -1,0 +1,12 @@
+{
+  "type": "plain",
+  "material": "metal",
+  "map_color": "COLOR_BROWN",
+  "requires_tool_for_drops": true,
+  "explosion_resistance": 1200,
+  "destroy_time": 30,
+  "sound_type": "minecraft:ancient_debris",
+  "item": {
+    "group": "ancient_debris_tweak:ancient_debris_tweak"
+  }  
+}

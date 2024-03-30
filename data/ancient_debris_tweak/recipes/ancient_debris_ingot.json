@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+      "tag": "forge:storage_blocks/ancient_debris"
+      }
+  ],
+  "result": {
+    "item": "netherite_scrap",
+    "count": 9
+  }
+}

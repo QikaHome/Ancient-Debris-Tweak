@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/raw_ancient_debris"
+    }
+  ],
+  "results": [
+    {
+      "item": "ancient_debris_tweak:crashed_raw_ancient_debris",
+      "count": 9
+    },
+    {
+      "item": "create:experience_nugget",
+      "count": 36,
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,25 @@
+{
+  "type": "tconstruct:ore_melting",
+  "rate": "metal",
+  "ingredient": {
+    "tag": "forge:storage_blocks/raw_ancient_debris"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_debris",
+    "amount": 810
+  },
+  "temperature": 1175,
+  "time": 143,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_diamond",
+      "amount": 900,
+      "rate": "gem"
+    },
+    {
+      "fluid": "tconstruct:molten_gold",
+      "amount": 2430,
+      "rate": "metal"
+    }
+  ]
+}
