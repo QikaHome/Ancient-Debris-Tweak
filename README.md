@@ -2,7 +2,7 @@
 This minecraft mod tweaked the Ancient Debris a little, and reduce the difficulty of getting many of it a little. Now the Ancient Debris are Nether Ancient Debris Ore, and it drops Raw Ancient Debris now.
 Adds: Raw Ancient Debris(Block),Ancient Debris Block,Crushed Raw Ancient Debris for Create
 Need Json Things ([Curseforge](https://www.curseforge.com/minecraft/mc-mods/json-things))([Github](https://github.com/gigaherz/JsonThings))
-![image](<img src='data:img/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAlwAAAGRCAYAAACwgm1HAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+![image](iVBORw0KGgoAAAANSUhEUgAAAlwAAAGRCAYAAACwgm1HAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAADLISURBVHhe7d35cxxHsthxgBwQ90EApESRFKUl
 pZW0K2l3vWvrPb+w9yeHw3+04znC8WIj/ELey9pd3TxFirjvYygaNUgAc9RUZ9ZU9TRmvh9FB1OY
 7urqnqMSPY3K0c9u3nw9ktnEtWsS5XNwdCSR3u7hoUR6+69eSaQzG3Hs81NTEumUdexLs7MS5VPW
@@ -231,4 +231,4 @@ spr1sm0My/5C68b0u2ibMs5Fin300kbHtlzpAgBcEqqEyzENbQOcdFmE+hbT76JtyjgXKfbRSxsd
 Npq3LeN4AQDohTnhckwDnEu6DIlX7OB5mQfdmL4XbVPG+Uixj17aaN62jOMFACBWVMLlmAc4a9Jl
 vDrmXOZBN6bvRduUcT5S7KOXNpq3LeN4AQCIEZ1wOeYBzppEkXQVKtqmjPORYh+p+lnG8QIAYNVT
 wuWYBzhlEnW+VsWSrpxtOzna97WZej8p2kvVpxznEACAXvSccDnmAY6kq3S+Pqc+jhTtperTZXyO
-AACDK0nC5ZgHOJKu0vn6nPo4UrSXqk+X8TkCAAyikZH/D6yjR+V6t5iDAAAAAElFTkSuQmCC'/>)
+AACDK0nC5ZgHOJKu0vn6nPo4UrSXqk+X8TkCAAyikZH/D6yjR+V6t5iDAAAAAElFTkSuQmCC)
