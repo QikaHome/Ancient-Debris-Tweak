@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "ancient-debris-tweak",
+  "name": "Ancient Debris Tweak",
+  "version": "0.0.2",
+  "license": "MIT",
+  "icon": "pack.png",
+  "contact": {
+    "homepage": "https://modrinth.com/mod/ancient-debris-tweak",
+    "issues": "https://github.com/QikaHome/Ancient-Debris-Tweak/issues",
+    "sources": "https://github.com/QikaHome/Ancient-Debris-Tweak"
+  },
+  "authors": [
+    "Qikahome"
+  ],
+  "depends": {
+    "ovo": ">=0.0.0"
+  },
+  "description": " Some tweaks for ancient debris."
+}

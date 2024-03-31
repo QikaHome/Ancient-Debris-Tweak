@@ -1,0 +1,24 @@
+[
+  {
+    "name": "ancient_debris_block",
+    "localization_name": "ancient_debris_block",
+    "texture_name": "ancient_debris_block",
+    "hard": 30,
+    "hard_level": 3,
+    "break_tool": "pickaxe",
+    "is_glow": false,
+    "drop_item": "ancient_debris_tweak:ancient_debris_block",
+    "group": "ancient_debris_tweak.ancient_debris_tweak"
+  },
+  {
+    "name": "raw_ancient_debris_block",
+    "localization_name": "raw_ancient_debris_block",
+    "texture_name": "raw_ancient_debris_block",
+    "hard": 30,
+    "hard_level": 3,
+    "break_tool": "pickaxe",
+    "is_glow": false,
+    "drop_item": "ancient_debris_tweak:raw_ancient_debris_block",
+    "group": "ancient_debris_tweak.ancient_debris_tweak"
+  }
+]

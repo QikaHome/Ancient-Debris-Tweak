@@ -1,0 +1,30 @@
+[
+  {
+    "name": "raw_ancient_debris",
+    "localization_name": "raw_ancient_debris",
+    "texture_name": "raw_ancient_debris",
+    "max_size": 64,
+    "group": "ancient_debris_tweak.ancient_debris_tweak"
+  },
+  {
+    "name": "crashed_raw_ancient_debris",
+    "localization_name": "crashed_raw_ancient_debris",
+    "texture_name": "crashed_raw_ancient_debris",
+    "max_size": 64,
+    "group": "ancient_debris_tweak.ancient_debris_tweak"
+  },
+  {
+    "name": "raw_ancient_debris_block",
+    "localization_name": "raw_ancient_debris_block",
+    "texture_name": "raw_ancient_debris_block",
+    "max_size": 64,
+    "group": "ancient_debris_tweak.ancient_debris_tweak"
+  },
+  {
+    "name": "ancient_debris_block",
+    "localization_name": "ancient_debris_block",
+    "texture_name": "ancient_debris_block",
+    "max_size": 64,
+    "group": "ancient_debris_tweak.ancient_debris_tweak"
+  }
+]
