@@ -1,4 +1,5 @@
 {
+  "parent": "ancient_debris",
   "type": "plain",
   "material": "metal",
   "map_color": "COLOR_BROWN",

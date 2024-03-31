@@ -2,7 +2,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "item": "ancient_debris_tweak:crashed_raw_ancient_debris"
+      "item": "ancient_debris_tweak:crushed_raw_ancient_debris"
     }
   ],
   "results": [

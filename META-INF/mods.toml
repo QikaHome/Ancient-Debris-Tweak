@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/QikaHome/Ancient-Debris-Tweak/issues"
 license="MIT"
 [[mods]]
     modId="ancient-debris-tweak"
-    version="0.0.2"
+    version="0.1.0"
     displayName="Ancient Debris Tweak"
     description='''
     Some tweaks for ancient debris.
