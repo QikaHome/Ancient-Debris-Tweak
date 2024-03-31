@@ -1,11 +1,8 @@
 {
   "type": "tconstruct:ore_melting",
   "rate": "metal",
-  "ingredient": [{
-    "tag": "forge:ores/netherite_scrap"
-  },{
-    "tag": "forge:ores/ancient_debris"
-  }],
+  "ingredient": 
+{"item":"minecraft:ancient_debris"},
   "result": {
     "fluid": "tconstruct:molten_debris",
     "amount": 180

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      [
+      {
+      "tag": "forge:ingots/ancient_debris"
+      },
+      {
+      "tag": "forge:ingots/netherite_scrap"
+      }
+    ]
+  ],
+  "result": {
+    [
+      {
+      "tag": "forge:nuggets/ancient_debris",
+    "count": 9
+      },
+      {
+      "tag": "forge:nuggets/netherite_scrap",
+    "count": 9
+      }
+    ]
+
+  }
+}

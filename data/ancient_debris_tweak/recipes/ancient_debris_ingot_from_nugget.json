@@ -8,14 +8,14 @@
   "key": {
     "#": [
       {
-      "tag": "forge:ingots/ancient_debris"
+      "tag": "forge:nuggets/ancient_debris"
       },
       {
-      "tag": "forge:ingots/netherite_scrap"
+      "tag": "forge:nuggets/netherite_scrap"
       }
     ]
   },
   "result": {
-    "item": "ancient_debris_tweak:ancient_debris_block"
+    "item": "netherite_scrap"
   }
 }
