@@ -2,8 +2,6 @@
   "type": "tconstruct:melting",
   "ingredient": [{
     "tag": "forge:storage_blocks/netherite_scrap"
-  },{
-    "tag": "forge:storage_blocks/ancient_debris"
   }],
   "result": {
     "fluid": "tconstruct:molten_debris",

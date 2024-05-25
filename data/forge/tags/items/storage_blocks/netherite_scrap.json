@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#forge:storage_blocks/ancient_debris",
+    "ancient_debris_tweak:ancient_debris_block"
   ]
 }

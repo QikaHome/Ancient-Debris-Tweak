@@ -8,11 +8,11 @@
   "key": {
     "#": [
       {
-      "tag": "forge:raw_materials/netherite_scrap"
+      "item": "minnecraft:netherite_scrap"
       }
     ]
   },
   "result": {
-    "item": "ancient_debris_tweak:raw_ancient_debris_block"
+    "item": "ancient_debris_tweak:ancient_debris_block"
   }
 }

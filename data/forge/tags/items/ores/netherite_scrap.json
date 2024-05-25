@@ -1,5 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "#forge:ores/ancient_debris"
+    "minrcraft:ancient_debris"
   ]
 }

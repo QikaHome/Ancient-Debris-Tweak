@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#forge:raw_materials/ancient_debris"
+    "ancient_debris_tweak:raw_ancient_debris"
   ]
 }
